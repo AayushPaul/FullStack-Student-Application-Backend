@@ -1,5 +1,5 @@
 # About
-This is the backend of this full-stack application using Spring Boot in IntelliJ IDEA. This is a CRUD(Create, Read, Update, Delete) application powered by Spring Boot, React, JavaScript, and Bootstrap. 
+This is the backend of this full-stack application using Java and Spring Boot in IntelliJ IDEA. This is a CRUD(Create, Read, Update, Delete) application powered by Spring Boot, Java, React, JavaScript, and Bootstrap. 
 The web application allows college counselors to add students to the online system with their semester GPAs, so that college faculty can determine which students made the Dean's List. 
 Any college can use this application, and students who have at least a 3.5 GPA make the Dean's List! 
 
